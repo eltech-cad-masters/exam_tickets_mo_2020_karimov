@@ -10,7 +10,7 @@
 
 3. Клонировать к себе данный репозиторий:
    ```
-   git clone git@github.com:eltech5302/exam_tickets_mo_2020_karimov.git
+   git clone git@github.com:eltech-cad-masters/exam_tickets_mo_2020_karimov.git
    ```
 
 
